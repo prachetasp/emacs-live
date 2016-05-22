@@ -27,3 +27,7 @@
 
 (live-load-config-file "dockerfile-conf.el")
 (live-load-config-file "puppet-conf.el")
+
+(add-hook 'html-mode-hook
+        (lambda ()
+          (set (make-local-variable 'sgml-basic-offset) 2)))
