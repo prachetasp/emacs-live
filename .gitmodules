@@ -182,3 +182,9 @@
 [submodule "packs/dev/epxlabs-pack/vendor/submodules/json-mode"]
 	path = packs/dev/epxlabs-pack/vendor/submodules/json-mode
 	url = git://github.com/joshwnj/json-mode.git
+[submodule "packs/dev/epxlabs-pack/vendor/submodules/json-reformat"]
+	path = packs/dev/epxlabs-pack/vendor/submodules/json-reformat
+	url = git://github.com/gongo/json-reformat.git
+[submodule "packs/dev/epxlabs-pack/vendor/submodules/json-snatcher"]
+	path = packs/dev/epxlabs-pack/vendor/submodules/json-snatcher
+	url = git://github.com/Sterlingg/json-snatcher.git
