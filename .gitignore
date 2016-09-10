@@ -26,3 +26,5 @@ tmp/*
 swank/*
 ido.last
 smex-items
+
+elpa/*
