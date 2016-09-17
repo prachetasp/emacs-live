@@ -25,6 +25,7 @@
      (shell-command (concat "touch " (shell-quote-argument (buffer-file-name))))
      (clear-visited-file-modtime))
 
+(live-load-config-file "browser-repl.el")
 (live-load-config-file "dockerfile-conf.el")
 (live-load-config-file "json-conf.el")
 (live-load-config-file "puppet-conf.el")
