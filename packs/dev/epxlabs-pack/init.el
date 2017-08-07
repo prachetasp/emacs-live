@@ -28,6 +28,7 @@
 (live-load-config-file "browser-repl.el")
 (live-load-config-file "dockerfile-conf.el")
 (live-load-config-file "json-conf.el")
+(live-load-config-file "nginx-conf.el")
 (live-load-config-file "puppet-conf.el")
 
 (add-hook 'html-mode-hook

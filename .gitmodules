@@ -188,3 +188,6 @@
 [submodule "packs/dev/epxlabs-pack/vendor/submodules/json-snatcher"]
 	path = packs/dev/epxlabs-pack/vendor/submodules/json-snatcher
 	url = git://github.com/Sterlingg/json-snatcher.git
+[submodule "packs/dev/epxlabs-pack/vendor/submodules/nginx-mode"]
+	path = packs/dev/epxlabs-pack/vendor/submodules/nginx-mode
+	url = git@github.com:ajc/nginx-mode.git
