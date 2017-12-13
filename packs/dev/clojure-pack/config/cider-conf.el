@@ -41,7 +41,7 @@
 ;; things. This might be dangerous for some people relying on
 ;; *print-length* being larger. Consider a work around
 (defun live-nrepl-set-print-length ()
-  (nrepl-sync-request:eval "(set! *print-length* 1000)" (cider-current-connection) (cider-current-session) "clojure.core"))
+  (nrepl-sync-request:eval "(set! *print-length* 1000)" (cider-current-connection) "clojure.core"))
 
 (add-hook 'nrepl-connected-hook 'live-nrepl-set-print-length)
 
