@@ -106,7 +106,7 @@
 	url = git://github.com/jimhourihan/glsl-mode.git
 [submodule "packs/dev/org-pack/vendor/submodules/org-mode"]
 	path = packs/dev/org-pack/vendor/submodules/org-mode
-	url = http://orgmode.org/org-mode.git
+	url = git://github.com/abo-abo/org-mode.git
 [submodule "packs/dev/git-pack/vendor/submodules/git-modes"]
 	path = packs/dev/git-pack/vendor/submodules/git-modes
 	url = git://github.com/magit/git-modes.git
@@ -190,4 +190,4 @@
 	url = git://github.com/Sterlingg/json-snatcher.git
 [submodule "packs/dev/epxlabs-pack/vendor/submodules/nginx-mode"]
 	path = packs/dev/epxlabs-pack/vendor/submodules/nginx-mode
-	url = git@github.com:ajc/nginx-mode.git
+	url = git://github.com/ajc/nginx-mode.git
